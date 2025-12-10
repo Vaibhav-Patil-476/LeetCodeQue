@@ -23,7 +23,7 @@ public class Pattern_Pyramid {
 							System.out.print("*");
 					}
 						
-//				System.out.println();	
+				System.out.println();	
 					
 				}
 				
