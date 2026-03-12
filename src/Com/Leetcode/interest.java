@@ -1,7 +1,8 @@
 package Com.Leetcode;
 
 import java.util.Scanner;
-
+ 
+ //Calculate interest
 public class interest {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
